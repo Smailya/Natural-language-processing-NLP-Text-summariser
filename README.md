@@ -33,3 +33,25 @@ By integrating this summarization script, developers can create smarter, user-fr
 ### How to Use
 
 1. Clone this repository:
+2. Navigate to the project directory:
+3. Run the script with your input text:
+4. Follow the prompts or modify the script to input your own articles.
+
+## Example
+
+text = """Your long article text here..."""
+summary = summarize(text)
+print(summary)
+
+## Contributing
+
+Contributions and improvements are welcome! Feel free to open issues or submit pull requests.
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Developed by Ismail Cisse 
+Enhancing text processing with simple yet powerful NLP techniques
